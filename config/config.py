@@ -9,6 +9,7 @@ TARGET_COLUMN = "final_grade"
 TEST_SIZE = 0.2
 RANDOM_STATE = 42
 
+
 COLUMN_RENAME_MAP = {
     "famsize": "family_size",
     "Pstatus": "parents_living_status",
